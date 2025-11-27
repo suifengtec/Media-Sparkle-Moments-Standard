@@ -42,3 +42,11 @@
 
 
 ```
+
+## go  package
+
+```html
+
+go get github.com/suifengtec/Media-Sparkle-Moments-Standard/msp
+
+```
