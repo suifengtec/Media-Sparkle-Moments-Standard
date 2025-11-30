@@ -18,7 +18,7 @@ type MediaSparkleMoments struct {
 	Title string `json:"title"`
 	Desc  string `json:"desc"`
 	Path  string `json:"path"`
-	Segs  []Seg  `json:"list"`
+	Segs  []Seg  `json:"segs"`
 }
 
 func GetObjByJsonPath(mspJsonPath string) (MediaSparkleMoments, error) {

@@ -15,7 +15,7 @@
 
 ```
 
-## Media Sparkle Moments 
+## Media Sparkle Moments
 
 ```json
 
@@ -23,7 +23,7 @@
     "title": "media title",
     "desc": "media description",
     "path": "media path",
-    "list": [{
+    "segs": [{
             "title": "segment 1",
             "desc": "segment 1 description",
             "slug": "seg_1",
@@ -47,6 +47,6 @@
 
 ```html
 
-go get github.com/suifengtec/Media-Sparkle-Moments-Standard/msp
+go get -u github.com/suifengtec/Media-Sparkle-Moments-Standard/msp
 
 ```
